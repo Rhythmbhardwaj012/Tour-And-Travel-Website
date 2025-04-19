@@ -11,7 +11,7 @@
 
   Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://Rhythmbhardwaj012.github.io/tourly/"><strong>➥ Live Demo</strong></a>
+  <a href="https://tour-website-1208.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
